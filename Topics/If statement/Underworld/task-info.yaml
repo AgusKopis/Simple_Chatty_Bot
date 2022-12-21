@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # read the value from the input
+    coin = bool(int(input()))  # don't modify this line, please
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7076#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 20 Dec 2022 20:42:01 UTC"
+record: -1
